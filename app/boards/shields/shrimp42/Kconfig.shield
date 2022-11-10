@@ -1,5 +1,8 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-config SHIELD_SHRIMP42
-    def_bool $(shields_list_contains,shrimp42)
+config SHIELD_SHRIMP42_LEFT
+    def_bool $(shields_list_contains,shrimp42_left)
+
+config SHIELD_SHRIMP42_RIGHT
+    def_bool $(shields_list_contains,shrimp42_right)

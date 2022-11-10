@@ -6,3 +6,6 @@ url: https://github.com/GreenMashedPotato/Shrimp42
 requires: [pro_micro]
 features:
   - keys
+siblings:
+  - shrimp42_left
+  - shrimp42_right
