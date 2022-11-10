@@ -1,0 +1,8 @@
+file_format: "1"
+id: shrimp42
+name: SHRIMP42
+type: shield
+url: https://github.com/GreenMashedPotato/Shrimp42
+requires: [pro_micro]
+features:
+  - keys
